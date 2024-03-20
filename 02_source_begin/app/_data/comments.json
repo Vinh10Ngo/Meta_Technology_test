@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "postId": "1",
+    "content": "Comment 1 on Post 1",
+    "createdAt": "2024-03-16T12:00:00Z",
+    "createdById": "user1",
+    "updatedAt": "2024-03-16T12:00:00Z",
+    "updatedById": "user1"
+  },
+  {
+    "id": "2",
+    "postId": "2",
+    "content": "Comment 2 on Post 2",
+    "createdAt": "2024-03-17T12:00:00Z",
+    "createdById": "user2",
+    "updatedAt": "2024-03-17T12:00:00Z",
+    "updatedById": "user2"
+  },
+  {
+    "id": "3",
+    "postId": "3",
+    "content": "Comment 3 on Post 3",
+    "createdAt": "2024-03-18T12:00:00Z",
+    "createdById": "user3",
+    "updatedAt": "2024-03-18T12:00:00Z",
+    "updatedById": "user3"
+  },
+  {
+    "id": "4",
+    "postId": "4",
+    "content": "Comment 4 on Post 4",
+    "createdAt": "2024-03-19T12:00:00Z",
+    "createdById": "user4",
+    "updatedAt": "2024-03-19T12:00:00Z",
+    "updatedById": "user4"
+  },
+  {
+    "id": "5",
+    "postId": "5",
+    "content": "Comment 5 on Post 5",
+    "createdAt": "2024-03-20T12:00:00Z",
+    "createdById": "user5",
+    "updatedAt": "2024-03-20T12:00:00Z",
+    "updatedById": "user5"
+  } 
+]
+  

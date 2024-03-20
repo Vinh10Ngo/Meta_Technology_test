@@ -1,0 +1,47 @@
+[  
+  {
+    "id": "1",
+    "postId": "1",
+    "url": "https://example.com/image1.jpg",
+    "createdAt": "2024-03-16T12:00:00Z",
+    "createdById": "user1",
+    "updatedAt": "2024-03-16T12:00:00Z",
+    "updatedById": "user1"
+  },
+  {
+    "id": "2",
+    "postId": "2",
+    "url": "https://example.com/image2.jpg",
+    "createdAt": "2024-03-17T12:00:00Z",
+    "createdById": "user2",
+    "updatedAt": "2024-03-17T12:00:00Z",
+    "updatedById": "user2"
+  },
+  {
+    "id": "3",
+    "postId": "3",
+    "url": "https://example.com/image3.jpg",
+    "createdAt": "2024-03-18T12:00:00Z",
+    "createdById": "user3",
+    "updatedAt": "2024-03-18T12:00:00Z",
+    "updatedById": "user3"
+  },
+  {
+    "id": "4",
+    "postId": "4",
+    "url": "https://example.com/image4.jpg",
+    "createdAt": "2024-03-19T12:00:00Z",
+    "createdById": "user4",
+    "updatedAt": "2024-03-19T12:00:00Z",
+    "updatedById": "user4"
+  },
+  {
+    "id": "5",
+    "postId": "5",
+    "url": "https://example.com/image5.jpg",
+    "createdAt": "2024-03-20T12:00:00Z",
+    "createdById": "user5",
+    "updatedAt": "2024-03-20T12:00:00Z",
+    "updatedById": "user5"
+  }
+]

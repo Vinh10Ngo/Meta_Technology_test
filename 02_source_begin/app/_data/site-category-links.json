@@ -1,0 +1,36 @@
+[ 
+  {
+    "id": "1",
+    "siteId": "site1",
+    "categoryId": "1",
+    "updatedAt": "2024-03-16T12:00:00Z"
+  },
+  {
+    "id": "2",
+    "siteId": "site2",
+    "categoryId": "2",
+    "updatedAt": "2024-03-16T12:00:00Z"
+  },
+  {
+    "id": "3",
+    "siteId": "site3",
+    "categoryId": "3",
+    "updatedAt": "2024-03-16T12:00:00Z"
+  },
+  {
+    "id": "4",
+    "siteId": "site4",
+    "categoryId": "4",
+    "updatedAt": "2024-03-16T12:00:00Z"
+  },
+  {
+    "id": "5",
+    "siteId": "site5",
+    "categoryId": "5",
+    "updatedAt": "2024-03-16T12:00:00Z"
+  }
+]  
+  
+  
+  
+  

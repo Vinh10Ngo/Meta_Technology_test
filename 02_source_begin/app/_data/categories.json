@@ -1,0 +1,57 @@
+[  
+  {
+    "id": "1",
+    "name": "Category 1",
+    "slug": "category-1",
+    "isActive": true,
+    "createdAt": "2024-03-16T12:00:00Z",
+    "createdById": "user1",
+    "updatedAt": "2024-03-16T12:00:00Z",
+    "updatedById": "user1"
+    
+  },
+  {
+    "id": "2",
+    "name": "Category 2",
+    "slug": "category-2",
+    "isActive": true,
+    "createdAt": "2024-03-17T12:00:00Z",
+    "createdById": "user2",
+    "updatedAt": "2024-03-17T12:00:00Z",
+    "updatedById": "user2"
+    
+  },
+  {
+    "id": "3",
+    "name": "Category 3",
+    "slug": "category-3",
+    "isActive": true,
+    "createdAt": "2024-03-18T12:00:00Z",
+    "createdById": "user3",
+    "updatedAt": "2024-03-18T12:00:00Z",
+    "updatedById": "user3"
+    
+  },
+  {
+    "id": "4",
+    "name": "Category 4",
+    "slug": "category-4",
+    "isActive": true,
+    "createdAt": "2024-03-19T12:00:00Z",
+    "createdById": "user4",
+    "updatedAt": "2024-03-19T12:00:00Z",
+    "updatedById": "user4"
+    
+  },
+  {
+    "id": "5",
+    "name": "Category 5",
+    "slug": "category-5",
+    "isActive": true,
+    "createdAt": "2024-03-20T12:00:00Z",
+    "createdById": "user5",
+    "updatedAt": "2024-03-20T12:00:00Z",
+    "updatedById": "user5"
+    
+  }    
+]
