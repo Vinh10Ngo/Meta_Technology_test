@@ -1,10 +1,16 @@
 Installing Node.js and npm
+
 Adding npm to the environment PATH
+
 Pull the source code and open the project folder in the IDE.
+
 Run the command 'npm i' in the terminal to install the Node Modules directory.
+
 Run the command 'npm start' in the terminal to run the project.
+
 **Guide on using REST API with Postman to access the following endpoints:
 **
+
 Get all Categories:
 http://localhost:3000/api/meta/categories/all or http://localhost:3000/api/meta/categories/
 
