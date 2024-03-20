@@ -99,8 +99,13 @@ Delete a site category link:
 http://localhost:3000/api/meta/site-category-link/delete/:id (:id: the id of the site category link)
 
 Add the parameter ?page=[page number] after the URL to navigate to a specific page.
+
 Add the parameter ?search=[keyword] after the URL to perform a search.
+
 Add the parameter ?sort=[column name or field name] after the URL to sort in ascending order.
+
 Add the parameter ?sort=[-column name or -field name] after the URL to sort in descending order.
+
 Add the parameter ?limit=[number of elements to limit] after the URL to limit the number of elements.
+
 Add the parameter ?select=[column name or field name] after the URL to display only selected columns or fields.
